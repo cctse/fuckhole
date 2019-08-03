@@ -14,3 +14,4 @@
 - [ ] utc存储时间，转换时间结果为空
 懵逼指数：:star::star::star:
 解决方案：导入时区到数据库中```mysql_tzinfo_to_sql /usr/share/zoneinfo | mysql -u root -p mysql```
+升级时间：未知
